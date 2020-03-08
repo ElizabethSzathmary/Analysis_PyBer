@@ -4,22 +4,22 @@
 ##Description
 This is an analysis of ride share fares from January 1st to May first 2019.  We analysed the difference between Rural, Suburban and Urban environments. We analysed average fare per driver, number of drivers, sum of fares for each city type, total rides for each city type, and the average amount per fare. 
 
-##Average Fare per Driver
+#Average Fare per Driver
 Rural:     $55.4 
 Suburban:  $39.5
 Urban:     $16.5
 
-##Number of Drivers
+#Number of Drivers
 Rural       78
 Suburban    490
 Urban       2405
 
-##Sum of Fares for each City Type
+#Sum of Fares for each City Type
 Rural:      $4,327.93
 Suburban:   $19,356.33
 Urban:      $39,854.38
 
-##Total rides for each city type
+#Total rides for each city type
 Rural:       125
 Suburban:    625
 Urban:       1625
